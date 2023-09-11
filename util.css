@@ -1,0 +1,19 @@
+.text-center {
+  text-align: center;
+}
+
+.bg-red {
+  background-color: rgb(26, 24, 24);
+  width: 302px;
+  border: 8px solid black;
+  border-radius: 9px;
+}
+.mx-auto {
+  margin: auto;
+}
+.m-w-20 {
+  max-width: 30vw;
+}
+.item-center {
+  align-items: center;
+}
